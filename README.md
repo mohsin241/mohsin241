@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdul 👋</h1>
+<h1 align="center">Hi, I'm Mohsin 👋</h1>
 <h3 align="center">Blockchain Developer | Smart Contracts Engineer | Web3 Enthusiast</h3>
 
 ---
@@ -12,9 +12,9 @@
 ---
 
 ### 🔗 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulbaqui-ansari-26b0b31b5)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abdulnf)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsin-shaikh-2503a8222/)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MohsinS93489604)  
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mohsinnf)  
 
 ---
 
@@ -33,7 +33,6 @@
 
 #### 📡 Infrastructure & DevOps
 ![IPFS](https://img.shields.io/badge/IPFS-%230074D9.svg?style=for-the-badge&logo=ipfs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230087E4.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <!-- ### 🏆 **GitHub Stats**
